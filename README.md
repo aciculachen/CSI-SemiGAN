@@ -6,7 +6,7 @@ Implementation of semi-supervised deep convolutional generative adversarial netw
 Add two indoor localization scenarios: Lounge, Office (see exp2, exp3).
 ## Features:
 
-- main.py: train the GAN model under the pre-defined indoor localization scenarios.
+- main.py: train the models under the pre-defined indoor localization scenarios.
 - generate_CSI.py: Generate CSI samples with pretrained GAN model.
 - plot_CSI.py: code for plotting CSI samples
 - models.py: definde semisupervised GAN and supervised CNN (benchmark)
