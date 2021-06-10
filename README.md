@@ -1,9 +1,11 @@
 # Semi-Supervised Learning with GANs for Device-Free Fingerprinting Indoor Localization (IEEE GLOBECOM 2020)
 ######  Last update: 6/10/2021
 ## Introduction:
-Implementation of semi-supervised deep convolutional generative adversarial network (DCGAN) for Device Free Wi-Fi Fingerprinting Indoor Localization. For more details and evaluation results, please check out our original [paper](https://ieeexplore.ieee.org/document/9322456).
+Implementation of semi-supervised deep convolutional generative adversarial network (DCGAN) for Device Free Wi-Fi Fingerprinting Indoor Localization. 
 
-Add two indoor localization scenarios: Lounge, Office (see exp2, exp3).
+For more details and evaluation results, please check out our original [paper](https://ieeexplore.ieee.org/document/9322456).
+
+2021: Add two indoor localization scenarios: Lounge, Office (see exp2, exp3).
 
 ## Concept:
 <img src="https://github.com/aciculachen/CSI-SemiGAN/blob/master/sGAN.png" width="600">
